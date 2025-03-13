@@ -1,4 +1,4 @@
-## My Cursor Guide
+# My Cursor Guide
 
 Disable cursor audio effects
 ----------------------------
